@@ -1,0 +1,4 @@
+.idea
+pyConversionDate.iml
+__pycache__/
+*.xlsx
